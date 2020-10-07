@@ -1,0 +1,1 @@
+Here is downloaded and unpacked FreeType v. 2.10.2 from [official repository](https://sourceforge.net/projects/freetype/). 
